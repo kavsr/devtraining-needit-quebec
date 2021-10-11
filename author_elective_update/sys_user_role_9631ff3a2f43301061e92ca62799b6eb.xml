@@ -1,0 +1,71 @@
+<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role">
+    <sys_user_role action="DELETE">
+        <assignable_by/>
+        <can_delegate>true</can_delegate>
+        <description>Security admin role</description>
+        <elevated_privilege>false</elevated_privilege>
+        <grantable>true</grantable>
+        <includes_roles/>
+        <name>x_58872_needit.security_admin1</name>
+        <requires_subscription>-1</requires_subscription>
+        <scoped_admin>false</scoped_admin>
+        <suffix>security_admin1</suffix>
+        <sys_class_name>sys_user_role</sys_class_name>
+        <sys_created_by>Kavyasree_admin</sys_created_by>
+        <sys_created_on>2021-10-11 09:18:08</sys_created_on>
+        <sys_id>9631ff3a2f43301061e92ca62799b6eb</sys_id>
+        <sys_mod_count>1</sys_mod_count>
+        <sys_name>x_58872_needit.security_admin1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_update_name>sys_user_role_9631ff3a2f43301061e92ca62799b6eb</sys_update_name>
+        <sys_updated_by>Kavyasree_admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 09:23:17</sys_updated_on>
+    </sys_user_role>
+    <sys_update_version action="INSERT_OR_UPDATE">
+        <action>DELETE</action>
+        <application display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</application>
+        <file_path/>
+        <instance_id>1419b54edb60374052dd2f17d4961961</instance_id>
+        <instance_name>dev78448</instance_name>
+        <name>sys_user_role_9631ff3a2f43301061e92ca62799b6eb</name>
+        <payload><![CDATA[<?xml version="1.0" encoding="UTF-8"?><record_update table="sys_user_role"><sys_user_role action="INSERT_OR_UPDATE"><assignable_by/><can_delegate>true</can_delegate><description>Security admin role</description><elevated_privilege>false</elevated_privilege><grantable>true</grantable><includes_roles/><name>x_58872_needit.security_admin1</name><requires_subscription>-1</requires_subscription><scoped_admin>false</scoped_admin><suffix>security_admin1</suffix><sys_class_name>sys_user_role</sys_class_name><sys_created_by>Kavyasree_admin</sys_created_by><sys_created_on>2021-10-11 09:18:08</sys_created_on><sys_id>9631ff3a2f43301061e92ca62799b6eb</sys_id><sys_mod_count>1</sys_mod_count><sys_name>x_58872_needit.security_admin1</sys_name><sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package><sys_policy/><sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope><sys_update_name>sys_user_role_9631ff3a2f43301061e92ca62799b6eb</sys_update_name><sys_updated_by>Kavyasree_admin</sys_updated_by><sys_updated_on>2021-10-11 09:23:17</sys_updated_on></sys_user_role></record_update>]]></payload>
+        <payload_hash>-581405669</payload_hash>
+        <record_name>x_58872_needit.security_admin1</record_name>
+        <reverted_from/>
+        <source>cefc89f72f36301061e92ca62799b6fb</source>
+        <source_table>sys_update_set</source_table>
+        <state>previous</state>
+        <sys_created_by>Kavyasree_admin</sys_created_by>
+        <sys_created_on>2021-10-11 09:23:17</sys_created_on>
+        <sys_id>5382bbba2f43301061e92ca62799b67e</sys_id>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_recorded_at>17c6ea9db170000001</sys_recorded_at>
+        <sys_updated_by>Kavyasree_admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 09:23:17</sys_updated_on>
+        <type>Role</type>
+        <update_guid>5b82bbbadc433010c39ceec208be267d</update_guid>
+        <update_guid_history>5b82bbbadc433010c39ceec208be267d:-581405669,3351b37ad6433010cfb55b5ca6c44bf1:1517965221</update_guid_history>
+    </sys_update_version>
+    <sys_metadata_delete action="INSERT_OR_UPDATE">
+        <sys_audit_delete display_value="x_58872_needit.security_admin1">0513b3fa2f43301061e92ca62799b6ff</sys_audit_delete>
+        <sys_class_name>sys_metadata_delete</sys_class_name>
+        <sys_created_by>Kavyasree_admin</sys_created_by>
+        <sys_created_on>2021-10-11 09:25:36</sys_created_on>
+        <sys_db_object display_value="" name="sys_user_role">sys_user_role</sys_db_object>
+        <sys_id>0751c61685dc41b6b97ac2545f2a80a4</sys_id>
+        <sys_metadata>9631ff3a2f43301061e92ca62799b6eb</sys_metadata>
+        <sys_mod_count>0</sys_mod_count>
+        <sys_name>x_58872_needit.security_admin1</sys_name>
+        <sys_package display_value="NeedIt" source="x_58872_needit">6ead8e780f603200cd674f8ce1050ed1</sys_package>
+        <sys_parent/>
+        <sys_policy/>
+        <sys_scope display_value="NeedIt">6ead8e780f603200cd674f8ce1050ed1</sys_scope>
+        <sys_scope_delete display_value="">94872a8897db403e8ee69a431de2fca4</sys_scope_delete>
+        <sys_update_name>sys_user_role_9631ff3a2f43301061e92ca62799b6eb</sys_update_name>
+        <sys_update_version display_value="sys_user_role_9631ff3a2f43301061e92ca62799b6eb">5382bbba2f43301061e92ca62799b67e</sys_update_version>
+        <sys_updated_by>Kavyasree_admin</sys_updated_by>
+        <sys_updated_on>2021-10-11 09:25:36</sys_updated_on>
+    </sys_metadata_delete>
+</record_update>
